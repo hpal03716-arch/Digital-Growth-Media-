@@ -2,7 +2,7 @@
 
 Upload ALL of these to the repo root (keep the folder structure):
 
-- index.html
+- digital_growth_media_v10_preview.html
 - assets/   (images + hero reel video)
 
 How to upload on GitHub: Add file > Upload files > drag index.html AND the assets folder > Commit changes.
