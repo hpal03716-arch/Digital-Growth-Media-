@@ -1,13 +1,6 @@
-# Digital Growth Media – Website (v10)
+# Digital Growth Media – Website
 
-Upload ALL of these to the repo root (keep the folder structure):
+Self-contained website: just `index.html` (all images and videos are inside the file).
 
-- index.html
-- assets/   (images + hero reel video)
-
-How to upload on GitHub: Add file > Upload files > drag index.html AND the assets folder > Commit changes.
-Deploy free with GitHub Pages (Settings > Pages > main / root) or Vercel.
-
-Notes
-- The video work section plays videos from Google Drive, so those Drive files must be shared "Anyone with the link".
-- The hero loads its images and video only when needed, so the first screen stays fast.
+- Open `index.html` in a browser, or deploy with GitHub Pages / Vercel (root folder).
+- The "Video Work" section plays videos from Google Drive, so those Drive files must be shared as "Anyone with the link".
